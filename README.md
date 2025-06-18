@@ -28,8 +28,13 @@ Output: "B:2,C:3"
 
 
 
+
+
 🚀 Additional Highlights
+
+
 🌟 Projects
+
 Book My Ticket – IPL Ticket Booking System (HTML, CSS, JSP, MySQL)
 
 Harvest Hub – Android App for Farmers (Flutter, Firebase)
@@ -37,11 +42,13 @@ Harvest Hub – Android App for Farmers (Flutter, Firebase)
 Job Sphere – Final-Year Data Analytics Project (Python, Pandas, Tableau)
 
 🌱 Open Source Contribution
+
 Selected as a Contributor & Mentor in GirlScript Summer of Code 2024
 
 Mentored 15+ students and contributed to various real-world open source projects
 
 🧠 Skills
+
 Python, Java, JavaScript, SQL, MySQL, Firebase
 
 Frontend: HTML, CSS, React
@@ -49,6 +56,7 @@ Frontend: HTML, CSS, React
 Backend: Django, Node.js
 
 🌐 Portfolio & Links
+
 Portfolio Website: https://portfolioananya.netlify.app
 
 GitHub: https://github.com/ananyasadhiye
