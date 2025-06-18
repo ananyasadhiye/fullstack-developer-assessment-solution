@@ -23,10 +23,11 @@ The challenge required identifying the most frequent keys in a list of key-value
 
 Given a list of key-value strings, remove entries with keys that appear most frequently.
 
-**Example:**
-```python
 Input: ["A:1", "B:2", "A:2", "C:3"]
 Output: "B:2,C:3"
+
+
+
 🚀 Additional Highlights
 🌟 Projects
 Book My Ticket – IPL Ticket Booking System (HTML, CSS, JSP, MySQL)
@@ -56,3 +57,4 @@ LinkedIn: https://www.linkedin.com/in/ananya-sadhiye-56045b311
 
 🙏 Thank You
 Thank you for visiting this repository. I hope it showcases my logical approach, problem-solving mindset, and genuine passion for software development.
+
